@@ -8,6 +8,7 @@ for i in range(1, n):
         somme_diviseurs += i
 if somme_diviseurs == n :
     print(f" le nombre : {n} est parfait" ) 
-
+else :
+    print(f" le nombre : {n} n'est pas parfait" ) 
  
  
