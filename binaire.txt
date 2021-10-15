@@ -1,0 +1,1 @@
+print("6 en binaire 110 et 28 en binaire 11100")
